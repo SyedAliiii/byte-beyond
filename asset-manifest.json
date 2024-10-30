@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/byte-beyond/static/css/main.aeb20bda.css",
-    "main.js": "/byte-beyond/static/js/main.5d10c392.js",
+    "main.js": "/byte-beyond/static/js/main.edf7e9b1.js",
     "static/js/453.af4227df.chunk.js": "/byte-beyond/static/js/453.af4227df.chunk.js",
     "static/media/blog1.jpg": "/byte-beyond/static/media/blog1.a028198a154a4d516b4e.jpg",
     "static/media/blog2.jpg": "/byte-beyond/static/media/blog2.d43bf7d8a175c4b07a51.jpg",
     "static/media/blog3.jpg": "/byte-beyond/static/media/blog3.31b32f9be77a79f5adc2.jpg",
     "index.html": "/byte-beyond/index.html",
     "main.aeb20bda.css.map": "/byte-beyond/static/css/main.aeb20bda.css.map",
-    "main.5d10c392.js.map": "/byte-beyond/static/js/main.5d10c392.js.map",
+    "main.edf7e9b1.js.map": "/byte-beyond/static/js/main.edf7e9b1.js.map",
     "453.af4227df.chunk.js.map": "/byte-beyond/static/js/453.af4227df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aeb20bda.css",
-    "static/js/main.5d10c392.js"
+    "static/js/main.edf7e9b1.js"
   ]
 }
