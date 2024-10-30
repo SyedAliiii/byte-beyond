@@ -6,10 +6,9 @@ import { Layout, Blogs, ViewBlog, Home } from './components/Home/Index';
 const App = () => {
   return (
     <>
-    <Layout/>
     <Routes>
       <Route path='/' element={<Layout/>}>
-        <Route path='/' element={<Home/>}/>
+        <Route index element={<Home/>}/>
         <Route path='/blogs' element={<Blogs/>}/>
         <Route path='/blog' element={<ViewBlog/>}/>
       </Route>
