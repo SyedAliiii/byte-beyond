@@ -6,6 +6,7 @@ import { Layout, Blogs, ViewBlog, Home } from './components/Home/Index';
 const App = () => {
   return (
     <>
+    GGS
     <Routes>
       <Route path='/' element={<Layout/>}>
         <Route path='/' element={<Home/>}/>
